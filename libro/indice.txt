@@ -1,0 +1,3 @@
+##introduccion a git 
+##Flujo de trabajo Basico
+##repositorio remotos
