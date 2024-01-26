@@ -1,5 +1,5 @@
 ##introduccion a git 
 ##Flujo de trabajo Basico
-##Gestion de ramas
+##Gestion de ramas 2.0
 ##repositorio remotos
 
